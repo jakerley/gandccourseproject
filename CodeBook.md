@@ -42,7 +42,10 @@ and training data:
 5. Write the new file to disk.
 
 ## Output
-The output file is _tidy.csv_.
+There are two versions of the same output file:
+
+* _tidy.csv_ is in the [project repository](https://github.com/jakerley/gandccourseproject).
+* _tidy.txt_ was uploaded as part of the project submission.
 
 tidy.csv has 2 columns of identifiction factors( activity and subject) and 68 columns of average measurements.
 It has 180 rows of data which are the averages acrosss activity and subject.
