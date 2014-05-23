@@ -3,7 +3,7 @@ This submission consists of 4 files:
 
 1. README.md
 2. CookBook.md - The cookbook describing the analysis
-3. tidy.csv - CSV file of tidy dataset
+3. tidy.csv - CSV file of tidy dataset (also uploaded in the submission as tidy.txt)
 4. run_analysis.R - script that performs the analysis.
 
 ###Requirements
